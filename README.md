@@ -1,0 +1,1 @@
+Simple Maven test example
